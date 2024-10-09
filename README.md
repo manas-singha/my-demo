@@ -1,4 +1,4 @@
 # my-demo
 this is october repository
 <br>
-author-Manas Singha
+author-Manas Singha(mathematics and computing)
